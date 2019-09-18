@@ -1,2 +1,3 @@
 # iokal.github.io
-My personal website, which includes
+
+Iyad Okal's personal website. Highlighting work experience and projects.
